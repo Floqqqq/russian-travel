@@ -1,0 +1,14 @@
+.place__website__url-heading {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 2px;
+  color: #aaaaaa;
+}
+@media (max-width: 767px) {
+  .place__website__url-heading {
+    max-width: 288px;
+    margin-bottom: 12px;
+  }
+}

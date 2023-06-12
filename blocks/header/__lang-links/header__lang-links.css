@@ -1,0 +1,9 @@
+.header__lang-links {
+  display: flex;
+  padding-top: 20px;
+}
+@media (max-width: 767px) {
+  .header__lang-links {
+    padding-top: 15px;
+  }
+}
