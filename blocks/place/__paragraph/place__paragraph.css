@@ -22,15 +22,12 @@
   .place__paragraph {
     max-width: 352px;
     margin: 0 0 25px 28px;
-    font-weight: 400;
     font-size: 16px;
-    line-height: 163%;
   }
 }
 @media (max-width: 767px) {
   .place__paragraph {
     max-width: 288px;
     margin: 0 16px 25px;
-    font-size: 16px;
   }
 }
