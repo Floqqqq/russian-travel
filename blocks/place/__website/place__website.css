@@ -13,10 +13,11 @@
     margin-bottom: 48px;
   }
 }
-@media (max-width: 875px) {
+@media (max-width: 1023px) {
   .place__website {
     max-width: 352px;
     margin-left: 38px;
+    max-height: 46px;
   }
 }
 @media (max-width: 767px) {
